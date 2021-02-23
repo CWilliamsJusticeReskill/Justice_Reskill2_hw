@@ -1137,10 +1137,4 @@
      }
     ]
    }
-   console.log(product);
-   for(var i in product){
-     if([i]==="shopping#products"){
-       console.log(i);
-     }
-
-   }
+  
